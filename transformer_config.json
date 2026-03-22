@@ -1,0 +1,11 @@
+{
+    "embed_dim": 256,
+    "latent_dim": 2048,
+    "num_heads": 8,
+    "sequence_length": 20,
+    "vocab_size": 30000,
+    "START_TOKEN": "[start]",
+    "END_TOKEN": "[end]",
+    "PAD_TOKEN": "<pad>",
+    "UNK_TOKEN": "<unk>"
+}
